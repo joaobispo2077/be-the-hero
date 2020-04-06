@@ -12,7 +12,8 @@ container: {
 header: {
     flexDirection: 'row',
     justifyContent: "space-between",
-    alignItems: 'center'
+    alignItems: 'center',
+  
 },
 
 incident: {
