@@ -8,22 +8,22 @@
 </h4>
 
 <p align="center">
- <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=1E90FF&labelColor=1C1C1C" alt="PRs welcome!" />
+ <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=e02041&labelColor=1C1C1C" alt="PRs welcome!" />
 
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=1E90FF&labelColor=1C1C1C">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=e02041&labelColor=1C1C1C">
 </p>
 <p align="center">
 <!-- <a href="https://github.com/joaobispo2077" target="_blank">
-    <img alt="Made by João Bispo" src="https://img.shields.io/static/v1?label=Made%20By&message=Joao%20Bispo&color=1E90FF&labelColor=1C1C1C"">
+    <img alt="Made by João Bispo" src="https://img.shields.io/static/v1?label=Made%20By&message=Joao%20Bispo&color=e02041&labelColor=1C1C1C"">
   </a> -->
   <a href="https://github.com/joaobispo2077" target="_blank" >
-    <img alt="Github - João Bispo" src="https://img.shields.io/badge/Github--%4B0082?style=plastic&labelColor=1C1C1C&color=1E90FF&logo=github">
+    <img alt="Github - João Bispo" src="https://img.shields.io/badge/Github--%4B0082?style=plastic&labelColor=1C1C1C&color=e02041&logo=github">
   </a>
   <a href="https://www.linkedin.com/in/joão-bispo-2077/" target="_blank" >
-    <img alt="Linkedin - João Bispo" src="https://img.shields.io/badge/Linkedin--%23F8952D?style=plastic&labelColor=1C1C1C&color=1E90FF&logo=linkedin">
+    <img alt="Linkedin - João Bispo" src="https://img.shields.io/badge/Linkedin--%23F8952D?style=plastic&labelColor=1C1C1C&color=e02041&logo=linkedin">
   </a>
   <a href="mailto:joaobispo2077@gmail.com" target="_blank" >
-    <img alt="Email - João Bispo" src="https://img.shields.io/badge/Email--%23F8952D?style=plastic&labelColor=1C1C1C&color=1E90FF&logo=gmail">
+    <img alt="Email - João Bispo" src="https://img.shields.io/badge/Email--%23F8952D?style=plastic&labelColor=1C1C1C&color=e02041&logo=gmail">
   </a>
 </p>
 

@@ -69,7 +69,7 @@ export default function Detail(){
 
             <View style={styles.contractBox}>
                     <Text style={styles.heroTitle}>Salve o dia!</Text>
-                    <Text style={styles.heroTitle}>Seja o herói dese caso.</Text>
+                    <Text style={styles.heroTitle}>Seja o herói desse caso.</Text>
 
                     <Text style={styles.heroDescription}>Entre em contato.</Text>
 
