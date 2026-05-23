@@ -14,12 +14,12 @@
     "cors": "^2.8.5",
     "cross-env": "^7.0.2",
     "express": "^4.17.1",    
-    "knex": "^0.20.13",
+    "knex": "^3.2.10",
     "sqlite3": "^4.1.1"
   },
   "devDependencies": {
     "nodemon": "^2.0.2",
-    "jest": "^25.2.7",
+    "jest": "^30.4.2",
     "supertest": "^4.0.2"
   },
   "description": ""
